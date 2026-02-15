@@ -1,2 +1,3 @@
 > [!CAUTION]
 > Negative potential consequences of an action.
+	[Google](https://www.google.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
