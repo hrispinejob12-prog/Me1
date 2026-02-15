@@ -1,3 +1,1 @@
-> [!CAUTION]
-> Negative potential consequences of an action.
-	[Google](https://www.google.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
+![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
